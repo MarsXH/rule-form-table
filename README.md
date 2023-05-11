@@ -5,7 +5,7 @@
 ## 安装方式
 
 ```bash
-npm i @marketing/rule-form-table --registry=http://npm.ddxq.mobi/
+暂未上传npm，可以使用源码直接引入
 ```
 
 ## 示例
